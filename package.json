@@ -19,7 +19,11 @@
     "url": "https://github.com/AustinCodingAcademy/advanced-first-web-server/issues"
   },
   "homepage": "https://github.com/AustinCodingAcademy/advanced-first-web-server#readme",
-  "dependencies": {},
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.2",
+    "mongoose": "^4.10.2"
+  },
   "devDependencies": {
     "babel-cli": "^6.18.0",
     "babel-core": "^6.18.2",
